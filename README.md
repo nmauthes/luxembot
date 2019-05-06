@@ -10,7 +10,7 @@ https://twitter.com/luxembot
 
 ## Docker
 
-To run the bot in it's own Docker container, navigate to the directory where it was saved and build the image using the Dockerfile with the following command:
+To run the bot in its own Docker container, navigate to the directory where it was saved and build the image using the Dockerfile with the following command:
 
 ```
 docker build .
