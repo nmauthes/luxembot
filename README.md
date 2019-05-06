@@ -16,7 +16,7 @@ To run the bot in it's own Docker container, navigate to the directory where it 
 docker build .
 ```
 
-Then the build is successfully completed copy the image ID and start the bot using:
+Then once the build is successfully completed copy the image ID and start the bot using:
 
 ```
 docker run <image id>
